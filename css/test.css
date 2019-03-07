@@ -1,0 +1,24 @@
+h1{
+
+			color: orange;
+			font-size: 30px;
+			
+		} 
+		.small{
+				color: red;
+				font-size: 33px;
+
+		}
+		#first{
+			font-size: 100px;
+		}
+		h2{
+
+			color: blue;
+			font-size: 30px;
+			
+		}
+		span{
+			font-style: italic;
+			font-size: 30px;
+			}
